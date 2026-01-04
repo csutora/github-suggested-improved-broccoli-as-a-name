@@ -1,4 +1,4 @@
-![github suggested improved broccoli as a name](why-the-name.png)
+![github suggested improved broccoli as a name](suggestion.png)
 
 i was thinking "i need a simple cli todo app"
 and then "wait i could write that in like 30 lines of python",
